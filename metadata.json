@@ -1,0 +1,6 @@
+{
+  "name": "SAZ AI Workspace",
+  "description": "Multilingual personal coding and app-development assistant with persistent project memory, live code sandbox, and GitHub repository audit.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
